@@ -1,5 +1,5 @@
 ### Music and Acoustic Engineering - Politecnico di Milano 
-## Sound Analysis, Synthesis and Processing 2023 - Homework 3
+## Sound Analysis, Synthesis and Processing 2023 - Homework 4
 # Wave Digital Filter modeling
 <br>
  The topic of this homework is Wave Digital Filter (WDF) modeling. You will be required to model a
